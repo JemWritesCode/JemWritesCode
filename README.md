@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jem Cope</h1>
 <h3 align="center">A fullstack software engineer</h3>
 
+- 📝 I have prveiously worked in Fintech and Edtech
+  
 - 🔭 I’m currently working on **indie game dev**. You can play my games at [CheeryBitGames on Itch.io!](https://cheerybit.itch.io/)
 
 - 📝 I make Youtube videos and blogs on [ElevateCode](https://www.elevatecode.com)
