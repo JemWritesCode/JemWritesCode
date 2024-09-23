@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on **indie game dev**. You can play my games at [CheeryBitGames on Itch.io](https://cheerybit.itch.io/)
 
-- 📝 I make Youtube videos and blogs on [ElevateCode](https://www.elevatecode.com)
+- 🎬 I make Youtube videos and blogs on [ElevateCode](https://www.elevatecode.com)
 
 - 📫 You can contact me at **elevatecode@gmail.com**
 
