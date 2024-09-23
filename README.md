@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **indie game dev**. You can play my games at [CheeryBitGames on Itch.io!](https://cheerybit.itch.io/)
 
-- 📝 I make content on [elevatecode.com](elevatecode.com)
+- 📝 I make content on [ElevateCode](https://www.elevatecode.com)
 
 - 📫 You can contact me at **elevatecode@gmail.com**
 
